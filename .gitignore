@@ -32,13 +32,13 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
-# Cache files
+# cache files
 # files ending in .cache can be ignored
 *.[Cc]ache
 # but keep track of directories ending in .cache
 !?*.[Cc]ache/
 
-# Build results
+# build results
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
