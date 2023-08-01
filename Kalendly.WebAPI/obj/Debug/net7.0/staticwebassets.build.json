@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5Rq4DELcPxfyHvIqXsS1zMox0gkn2nDv+X1uMh+jujE=",
+  "Source": "Kalendly.WebAPI",
+  "BasePath": "_content/Kalendly.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
